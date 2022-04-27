@@ -4,14 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Adding src directory">
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Adding objects in java and private, public access modifiers">
+      <change afterPath="$PROJECT_DIR$/src/Objects/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Functions/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/Functions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -121,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651052163961</updated>
-      <workItem from="1651052165209" duration="885000" />
+      <workItem from="1651052165209" duration="2040000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -137,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651052628411</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Modifying the functions class">
+      <created>1651053078582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1651053078582</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -169,6 +183,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Committing arrays, functions, loops , conditionals and try-catch" />
     <MESSAGE value="Adding src directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding src directory" />
+    <MESSAGE value="Modifying the functions class" />
+    <MESSAGE value="Adding objects in java and private, public access modifiers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding objects in java and private, public access modifiers" />
   </component>
 </project>
