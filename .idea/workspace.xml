@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Committing arrays, functions, loops , conditionals and try-catch">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Adding src directory">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Functions/Functions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Functions/Functions.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651052163961</updated>
-      <workItem from="1651052165209" duration="340000" />
+      <workItem from="1651052165209" duration="885000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -129,7 +130,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651052290426</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adding src directory">
+      <created>1651052628411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651052628411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +154,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin/master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
@@ -160,6 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Committing arrays, functions, loops , conditionals and try-catch" />
-    <option name="LAST_COMMIT_MESSAGE" value="Committing arrays, functions, loops , conditionals and try-catch" />
+    <MESSAGE value="Adding src directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding src directory" />
   </component>
 </project>
