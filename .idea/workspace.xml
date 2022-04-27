@@ -44,7 +44,7 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Arrays">
+  <component name="RunManager" selected="Application.Point">
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Arrays" />
       <module name="LearningJavaFromScratch" />
@@ -84,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TryAndCatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TryAndCatch.TryAndCatch" />
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Objects.Point" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TryAndCatch.*" />
+          <option name="PATTERN" value="Objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Point" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.Conditionals" />
         <item itemvalue="Application.Functions" />
         <item itemvalue="Application.VariablesInJava" />
-        <item itemvalue="Application.TryAndCatch" />
       </list>
     </recent_temporary>
   </component>
