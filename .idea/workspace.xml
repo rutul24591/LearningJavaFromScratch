@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Adding objects in java and private, public access modifiers">
-      <change afterPath="$PROJECT_DIR$/src/Objects/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arguments/Arguments.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +44,20 @@
     "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Point">
+  <component name="RunManager" selected="Application.Arguments">
+    <configuration name="Arguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arguments.Arguments" />
+      <module name="LearningJavaFromScratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Arguments.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Arrays" />
       <module name="LearningJavaFromScratch" />
@@ -97,26 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesInJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesInJava.VariablesInJava" />
-      <module name="LearningJavaFromScratch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="VariablesInJava.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Arguments" />
         <item itemvalue="Application.Point" />
         <item itemvalue="Application.Arrays" />
         <item itemvalue="Application.Conditionals" />
         <item itemvalue="Application.Functions" />
-        <item itemvalue="Application.VariablesInJava" />
       </list>
     </recent_temporary>
   </component>
@@ -128,7 +128,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1651052163961</updated>
-      <workItem from="1651052165209" duration="2040000" />
+      <workItem from="1651052165209" duration="3675000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -151,7 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651053078582</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Adding objects in java and private, public access modifiers">
+      <created>1651054533376</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1651054533376</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adding objects in java and private, public access modifiers">
+      <created>1651054572522</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1651054572522</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
