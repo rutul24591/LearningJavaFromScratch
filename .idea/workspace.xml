@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added arguments, compiling and running.">
-      <change afterPath="$PROJECT_DIR$/src/Exceptions/Exceptions.java" afterDir="false" />
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added Exceptions in java">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1651052163961</updated>
       <workItem from="1651052165209" duration="4883000" />
-      <workItem from="1651134854018" duration="924000" />
+      <workItem from="1651134854018" duration="1733000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -175,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651077727394</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Added Exceptions in java">
+      <created>1651140026596</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651140026596</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +217,7 @@
     <MESSAGE value="Modifying the functions class" />
     <MESSAGE value="Adding objects in java and private, public access modifiers" />
     <MESSAGE value="Added arguments, compiling and running." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added arguments, compiling and running." />
+    <MESSAGE value="Added Exceptions in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Exceptions in java" />
   </component>
 </project>
