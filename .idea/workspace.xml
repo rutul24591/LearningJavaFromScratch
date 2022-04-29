@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added Exceptions in java">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="ADDED complete singly linked list implementation in java">
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SinglyLinkedList/Node.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exceptions">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Arguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arguments.Arguments" />
       <module name="LearningJavaFromScratch" />
@@ -73,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Conditionals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Conditionals.Conditionals" />
+    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exceptions.Exceptions" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Conditionals.*" />
+          <option name="PATTERN" value="Exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.Exceptions" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.Main" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
+          <option name="PATTERN" value="SinglyLinkedList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Exceptions" />
         <item itemvalue="Application.Arguments" />
         <item itemvalue="Application.Point" />
         <item itemvalue="Application.Arrays" />
-        <item itemvalue="Application.Conditionals" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +134,8 @@
       <option name="presentableId" value="Default" />
       <updated>1651052163961</updated>
       <workItem from="1651052165209" duration="4883000" />
-      <workItem from="1651134854018" duration="1733000" />
+      <workItem from="1651134854018" duration="1943000" />
+      <workItem from="1651143207635" duration="10778000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -182,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651140026596</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added Exceptions in java">
+      <created>1651140825727</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1651140825727</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,6 +229,7 @@
     <MESSAGE value="Adding objects in java and private, public access modifiers" />
     <MESSAGE value="Added arguments, compiling and running." />
     <MESSAGE value="Added Exceptions in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Exceptions in java" />
+    <MESSAGE value="ADDED complete singly linked list implementation in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADDED complete singly linked list implementation in java" />
   </component>
 </project>

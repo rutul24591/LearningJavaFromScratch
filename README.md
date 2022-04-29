@@ -12,6 +12,7 @@
 * ### *FUNCTIONS*
 * ### *CONDITIONALS*
 * ### *ARGUMENTS*
+* ### *SINGLY LINKED LIST*
 
 
 
