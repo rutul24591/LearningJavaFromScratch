@@ -37,7 +37,7 @@ public class IntegerStack {
 
     public boolean push(int data){
         if(!isFull()){
-            System.out.println("Stack is not filled up");
+//            System.out.println("Stack is not filled up");
             top++;
             stack[top] = data;
             return true;
@@ -45,6 +45,10 @@ public class IntegerStack {
             System.out.println("Stack is filled up");
             return false;
         }
+    }
+
+    public int peek(){
+        return stack[top];
     }
 
     public int pop(){
