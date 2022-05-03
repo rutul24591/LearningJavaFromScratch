@@ -12,6 +12,8 @@ public class Main {
 
         list.addNodeAtStart(24);
 
+        list.getLengthOfList();
+
         list.addNodeAtPosition(2, 1000);
 
         list.deleteAt(2);

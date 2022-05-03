@@ -13,6 +13,7 @@
 * #### *CONDITIONALS*
 * #### *ARGUMENTS*
 * #### *SINGLY LINKED LIST*
+* #### *DOUBLY LINKED LIST*
 
 
 <!-- 

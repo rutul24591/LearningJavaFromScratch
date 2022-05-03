@@ -14,6 +14,10 @@ public class Main {
 
         linkedList.display();
 
+        System.out.println("================ Display the length of list ==================");
+
+        linkedList.getLengthOfList();
+
         System.out.println("=============== Add a node at start position and display new list ===================");
 
         linkedList.addNodeAtStart(6);

@@ -2,6 +2,12 @@ package DoublyLinkedList;
 
 public class LinkedList {
     Node head;
+    private int length;
+
+    public LinkedList(){
+        length = 0;
+    }
+
     public void addNodeAtEnd(int data){
         Node node = new Node();
         node.data = data;
@@ -91,6 +97,17 @@ public class LinkedList {
              // After changing reference, we also need to actually delete the node
              n1 = null;
          }
+    }
+
+    public void getLengthOfList(){
+        Node n = head;
+        while(n.next != null){
+            n = n.next;
+            length++;
+        }
+        // Remember we are traversing until nth-1 position, so we need to increase the length by 1 to count the last element
+        length = length + 1;
+        System.out.println("Length of the list:" +length);
     }
 
     public void display(){

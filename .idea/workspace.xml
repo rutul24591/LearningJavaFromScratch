@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added addNodeAtPosition to DoublyLinkedList">
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added find length of list functionality to both singly and doubly linked list">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/DoublyLinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/DoublyLinkedList/LinkedList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/DoublyLinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/DoublyLinkedList/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DoublyLinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoublyLinkedList/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DoublyLinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoublyLinkedList/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SinglyLinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SinglyLinkedList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +55,7 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.DoublyLinkedList.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Arguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arguments.Arguments" />
       <module name="LearningJavaFromScratch" />
@@ -118,8 +123,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DoublyLinkedList.Main" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.DoublyLinkedList.Main" />
         <item itemvalue="Application.Exceptions" />
         <item itemvalue="Application.Arguments" />
         <item itemvalue="Application.Point" />
@@ -137,7 +142,7 @@
       <workItem from="1651052165209" duration="4883000" />
       <workItem from="1651134854018" duration="1943000" />
       <workItem from="1651143207635" duration="12236000" />
-      <workItem from="1651569038045" duration="6084000" />
+      <workItem from="1651569038045" duration="7287000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -237,7 +242,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651573055943</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Completed doubly linked list">
+      <created>1651575176074</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1651575176074</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -278,6 +290,8 @@
     <MESSAGE value="Added addNodeAtEnd to DoublyLinkedList" />
     <MESSAGE value="Added addNodeAtStart to DoublyLinkedList" />
     <MESSAGE value="Added addNodeAtPosition to DoublyLinkedList" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added addNodeAtPosition to DoublyLinkedList" />
+    <MESSAGE value="Completed doubly linked list" />
+    <MESSAGE value="Added find length of list functionality to both singly and doubly linked list" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added find length of list functionality to both singly and doubly linked list" />
   </component>
 </project>
