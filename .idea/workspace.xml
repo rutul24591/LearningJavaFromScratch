@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added find length of list functionality to both singly and doubly linked list">
-      <change afterPath="$PROJECT_DIR$/src/StackWithArray/IntegerStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StackWithArray/Main.java" afterDir="false" />
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added basic stack implementation">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/StackWithArray/IntegerStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/StackWithArray/IntegerStack.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/StackWithArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/StackWithArray/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackWithArray/IntegerStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackWithArray/IntegerStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StackWithArray/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackWithArray/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +137,7 @@
       <workItem from="1651052165209" duration="4883000" />
       <workItem from="1651134854018" duration="1943000" />
       <workItem from="1651143207635" duration="12236000" />
-      <workItem from="1651569038045" duration="9947000" />
+      <workItem from="1651569038045" duration="10573000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -250,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651576380795</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added basic stack implementation">
+      <created>1651580006581</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1651580006581</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -293,6 +301,7 @@
     <MESSAGE value="Added addNodeAtPosition to DoublyLinkedList" />
     <MESSAGE value="Completed doubly linked list" />
     <MESSAGE value="Added find length of list functionality to both singly and doubly linked list" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added find length of list functionality to both singly and doubly linked list" />
+    <MESSAGE value="Added basic stack implementation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added basic stack implementation" />
   </component>
 </project>
