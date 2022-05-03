@@ -11,6 +11,7 @@ public class Main {
         linkedList.addNodeAtEnd(5);
 
         linkedList.addNodeAtStart(6);
+        linkedList.addNodeAtPosition(3, 1000);
 
         linkedList.display();
     }
