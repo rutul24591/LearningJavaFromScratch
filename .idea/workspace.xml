@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added addNodeAtEnd to DoublyLinkedList">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DoublyLinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoublyLinkedList/LinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DoublyLinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoublyLinkedList/Main.java" afterDir="false" />
     </list>
@@ -137,7 +135,7 @@
       <workItem from="1651052165209" duration="4883000" />
       <workItem from="1651134854018" duration="1943000" />
       <workItem from="1651143207635" duration="12236000" />
-      <workItem from="1651569038045" duration="1389000" />
+      <workItem from="1651569038045" duration="2733000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -209,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651569230554</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Added addNodeAtEnd to DoublyLinkedList">
+      <created>1651570432035</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1651570432035</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
