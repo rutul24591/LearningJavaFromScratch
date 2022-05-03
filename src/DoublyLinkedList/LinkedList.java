@@ -58,17 +58,52 @@ public class LinkedList {
         }
     }
 
+    /* Delete node at a specific given position. */
+    public void deleteAt(int position){
+         if(position == 0){
+             Node n = head;         // We take n as head simply because we want to delete the node from memory.
+             Node n1 = head.next;
+             n1.prev = null;
+             n = null;              // Make the n node reference to null to remove from memory.
+             head = n1;
+
+             /*
+             *  NOTE: If no memory constraints, then this could be done like this
+             *          Node n = head.next;
+             *          n.prev = null;
+             *          head = n
+             * */
+         } else {
+             Node n = head;
+             Node n1, n2;       // n1 will the node which we want to delete and n2 will be the next node of n1(we have to change the prev of n2 to point to n)
+             // Traverse n to n1 - 1 position
+             for(int i = 0; i < position - 1; i++){
+                n = n.next;
+             }
+             n1 = n.next;       // This is node we want to delete
+             n2 = n1.next;      // This is the node which is next to the node(which is to be deleted)
+             n2.prev = n;       // Make n2 to point to previous node which is now n.
+             n.next = n2;       // Make n point to next node which is now n2.
+
+             // Print out the data of the node to be deleted
+             System.out.println("Node Deleted:" +n1.data);
+
+             // After changing reference, we also need to actually delete the node
+             n1 = null;
+         }
+    }
+
     public void display(){
         Node n = head;
         while(n.next != null){
             System.out.println("Node Data:" +n.data);
-            System.out.println("Node Next:" +n.next);
-            System.out.println("Node Prev:" +n.prev);
+//            System.out.println("Node Next:" +n.next);
+//            System.out.println("Node Prev:" +n.prev);
             n = n.next;
         }
         // Without this line the last elements' data won't be printed, as loop runs until the second last element
         System.out.println("Node Data:" +n.data);
-        System.out.println("Node Next:" +n.next);
-        System.out.println("Node Prev:" +n.prev);
+//        System.out.println("Node Next:" +n.next);
+//        System.out.println("Node Prev:" +n.prev);
     }
 }
