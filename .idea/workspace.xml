@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added find length of list functionality to both singly and doubly linked list">
+      <change afterPath="$PROJECT_DIR$/src/StackWithArray/IntegerStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/StackWithArray/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/DoublyLinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/DoublyLinkedList/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/DoublyLinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/DoublyLinkedList/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/LinkedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/SinglyLinkedList/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoublyLinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoublyLinkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DoublyLinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DoublyLinkedList/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SinglyLinkedList/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SinglyLinkedList/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SinglyLinkedList/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +49,7 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.StackWithArray.Main">
     <configuration name="Arguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arguments.Arguments" />
       <module name="LearningJavaFromScratch" />
@@ -108,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Objects.Point" />
+    <configuration name="StackWithArray.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackWithArray.Main" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Objects.*" />
+          <option name="PATTERN" value="StackWithArray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StackWithArray.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.DoublyLinkedList.Main" />
         <item itemvalue="Application.Exceptions" />
         <item itemvalue="Application.Arguments" />
-        <item itemvalue="Application.Point" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +136,7 @@
       <workItem from="1651052165209" duration="4883000" />
       <workItem from="1651134854018" duration="1943000" />
       <workItem from="1651143207635" duration="12236000" />
-      <workItem from="1651569038045" duration="7287000" />
+      <workItem from="1651569038045" duration="9947000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -249,7 +243,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651575176074</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Added find length of list functionality to both singly and doubly linked list">
+      <created>1651576380795</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1651576380795</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
