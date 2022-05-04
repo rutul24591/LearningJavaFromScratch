@@ -1,4 +1,4 @@
-package Interfaces;
+package Inheritance;
 
 class Car extends Vehicle{
     // Settings modelName as protected instead of private to make it accessible by Main class

@@ -1,4 +1,4 @@
-package Interfaces;
+package Inheritance;
 /*
 *  In Java, inheritance is the way by which a class(subclass) can access properties and attributes from another class(superclass)
 
