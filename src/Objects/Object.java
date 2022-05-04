@@ -1,4 +1,4 @@
-package OOPS;
+package Objects;
 
 /*
 * OBJECTS

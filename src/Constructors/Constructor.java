@@ -1,4 +1,4 @@
-package OOPS;
+package Constructors;
 /*
 *   A constructor in Java is special method that is used to initialize objects.
 *   The constructor is called when an object of a class is created.
