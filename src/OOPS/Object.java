@@ -1,4 +1,5 @@
-package Objects;
+package OOPS;
+
 /*
 * OBJECTS
     Everything in Java is within classes and objects.
@@ -16,6 +17,7 @@ package Objects;
     In order to create an instance of this class, we need to use the keyword new.
 
     Point p = new Point();
+
     In this case, we used a default constructor (constructor that doesn't get arguments) to create a Point.
     All classes that don't explicitly define a constructor has a default constructor that does nothing.
 
@@ -72,6 +74,8 @@ package Objects;
         }
     }
 
+    In Java, objects are an instance of a Java Class.
+
     PUBLIC AND PRIVATE KEYWORDS
 
     When using the keyword private before a variable or a method, it means only the class itself can access the variable or method,
@@ -111,11 +115,11 @@ package Objects;
             }
         }
 * */
-public class Point {
+public class Object {
     private double x;
     private double y;
 
-    public Point(double x, double y) {
+    public Object(double x, double y) {
         this.x = x;
         this.y = y;
     }
@@ -131,10 +135,11 @@ public class Point {
     }
 
     public static void main(String[] args) {
-        Point p = new Point(32, 32);
+        Object p = new Object(32, 32);
         for (int i = 0; i < 5; i++) {
             p.scale();
             p.print();
         }
     }
 }
+

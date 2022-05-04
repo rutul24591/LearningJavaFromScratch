@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added basic stack implementation">
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Completed Integer Stack implementation adding push, pop, isEmpty, isFull, peek, size, top methods">
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOPS/Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/IntegerQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/StackWithArray/IntegerStack.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/StackWithArray/IntegerStack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/StackWithArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/StackWithArray/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StackWithArray/IntegerStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackWithArray/IntegerStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/StackWithArray/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StackWithArray/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Objects/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Objects/Point.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,39 +52,13 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StackWithArray.Main">
-    <configuration name="Arguments" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arguments.Arguments" />
+  <component name="RunManager" selected="Application.Constructor">
+    <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Constructor" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arguments.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoublyLinkedList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoublyLinkedList.Main" />
-      <module name="LearningJavaFromScratch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="DoublyLinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Exceptions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exceptions.Exceptions" />
-      <module name="LearningJavaFromScratch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Exceptions.*" />
+          <option name="PATTERN" value="OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,6 +72,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="SinglyLinkedList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOPS.Objects.Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Objects.Point" />
+      <module name="LearningJavaFromScratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.Objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Object" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPS.Object" />
+      <module name="LearningJavaFromScratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Constructor" />
+        <item itemvalue="Application.Object" />
+        <item itemvalue="Application.OOPS.Objects.Point" />
         <item itemvalue="Application.StackWithArray.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.DoublyLinkedList.Main" />
-        <item itemvalue="Application.Exceptions" />
-        <item itemvalue="Application.Arguments" />
       </list>
     </recent_temporary>
   </component>
@@ -137,7 +139,7 @@
       <workItem from="1651052165209" duration="4883000" />
       <workItem from="1651134854018" duration="1943000" />
       <workItem from="1651143207635" duration="12236000" />
-      <workItem from="1651569038045" duration="10573000" />
+      <workItem from="1651569038045" duration="12780000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -258,7 +260,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651580006581</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Completed Integer Stack implementation adding push, pop, isEmpty, isFull, peek, size, top methods">
+      <created>1651580653743</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1651580653743</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Completed Integer Stack implementation adding push, pop, isEmpty, isFull, peek, size, top methods">
+      <created>1651580662256</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1651580662256</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -302,6 +318,7 @@
     <MESSAGE value="Completed doubly linked list" />
     <MESSAGE value="Added find length of list functionality to both singly and doubly linked list" />
     <MESSAGE value="Added basic stack implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added basic stack implementation" />
+    <MESSAGE value="Completed Integer Stack implementation adding push, pop, isEmpty, isFull, peek, size, top methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Integer Stack implementation adding push, pop, isEmpty, isFull, peek, size, top methods" />
   </component>
 </project>
