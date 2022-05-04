@@ -4,14 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Completed Integer Stack implementation adding push, pop, isEmpty, isFull, peek, size, top methods">
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOPS/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/IntegerQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queue/Main.java" afterDir="false" />
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Refactored the Object and implemented basic constructor implementation in class.">
+      <change afterPath="$PROJECT_DIR$/src/Enums/Enums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Objects/Point.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Objects/Point.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +47,7 @@
     "run.code.analysis.last.selected.profile": "pProject Default"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Constructor">
+  <component name="RunManager" selected="Application.Enums">
     <configuration name="Constructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="OOPS.Constructor" />
       <module name="LearningJavaFromScratch" />
@@ -66,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SinglyLinkedList.Main" />
+    <configuration name="Enums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Enums.Enums" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SinglyLinkedList.*" />
+          <option name="PATTERN" value="Enums.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Enums" />
         <item itemvalue="Application.Constructor" />
         <item itemvalue="Application.Object" />
         <item itemvalue="Application.OOPS.Objects.Point" />
         <item itemvalue="Application.StackWithArray.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +134,7 @@
       <workItem from="1651052165209" duration="4883000" />
       <workItem from="1651134854018" duration="1943000" />
       <workItem from="1651143207635" duration="12236000" />
-      <workItem from="1651569038045" duration="12780000" />
+      <workItem from="1651569038045" duration="13783000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -274,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651580662256</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Refactored the Object and implemented basic constructor implementation in class.">
+      <created>1651652144688</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1651652144688</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -319,6 +321,7 @@
     <MESSAGE value="Added find length of list functionality to both singly and doubly linked list" />
     <MESSAGE value="Added basic stack implementation" />
     <MESSAGE value="Completed Integer Stack implementation adding push, pop, isEmpty, isFull, peek, size, top methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Integer Stack implementation adding push, pop, isEmpty, isFull, peek, size, top methods" />
+    <MESSAGE value="Refactored the Object and implemented basic constructor implementation in class." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored the Object and implemented basic constructor implementation in class." />
   </component>
 </project>
