@@ -1,2 +1,3 @@
-package Queue;public class IntegerQueue {
+package Queue;
+public class IntegerQueue {
 }
