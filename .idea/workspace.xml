@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added section HashMap in java">
-      <change afterPath="$PROJECT_DIR$/src/Modifiers/Main.java" afterDir="false" />
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added section Modifiers in java">
+      <change afterPath="$PROJECT_DIR$/src/HashSet/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Queue/IntegerQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Queue/IntegerQueue.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +56,7 @@
       <recent name="OOPS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.HashSet.Main">
     <configuration name="ArrayList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayList.Main" />
       <module name="LearningJavaFromScratch" />
@@ -71,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Comments.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Comments.Main" />
+    <configuration name="HashMap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashMap.Main" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Comments.*" />
+          <option name="PATTERN" value="HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMap.Main" />
+    <configuration name="HashSet.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashSet.Main" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashMap.*" />
+          <option name="PATTERN" value="HashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashSet.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HashMap.Main" />
         <item itemvalue="Application.ArrayList.Main" />
         <item itemvalue="Application.Packages.Main" />
-        <item itemvalue="Application.Comments.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +144,7 @@
       <workItem from="1651134854018" duration="1943000" />
       <workItem from="1651143207635" duration="12236000" />
       <workItem from="1651569038045" duration="20931000" />
-      <workItem from="1651674442240" duration="5412000" />
+      <workItem from="1651674442240" duration="6452000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -357,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651744043732</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Added section Modifiers in java">
+      <created>1651744868760</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1651744868760</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,7 +393,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding src directory" />
     <MESSAGE value="Modifying the functions class" />
     <MESSAGE value="Adding objects in java and private, public access modifiers" />
     <MESSAGE value="Added arguments, compiling and running." />
@@ -412,6 +417,7 @@
     <MESSAGE value="Added section packages in java" />
     <MESSAGE value="Added section ArrayList in java" />
     <MESSAGE value="Added section HashMap in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added section HashMap in java" />
+    <MESSAGE value="Added section Modifiers in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added section Modifiers in java" />
   </component>
 </project>
