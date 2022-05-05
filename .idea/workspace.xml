@@ -4,15 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Modifications in Hashset">
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/CompileTimePolymorphism.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/MethodOverloading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/OtherExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Polymorphism/RuntimePolymorphism.java" afterDir="false" />
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added Polymorphism concepts and examples to achieve it in java along method overloading and overriding.">
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/HashSet/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/HashSet/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,7 @@
       <recent name="OOPS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RuntimePolymorphismMain">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Car2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Polymorphism.Car2" />
       <module name="LearningJavaFromScratch" />
@@ -76,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimePolymorphismMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.RuntimePolymorphismMain" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Encapsulation.Main" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="PATTERN" value="Encapsulation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,8 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShapeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.ShapeMain" />
+    <configuration name="RuntimePolymorphismMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.RuntimePolymorphismMain" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.RuntimePolymorphismMain" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.otherExample" />
         <item itemvalue="Application.Car2" />
-        <item itemvalue="Application.ShapeMain" />
       </list>
     </recent_temporary>
   </component>
@@ -150,7 +145,7 @@
       <workItem from="1651134854018" duration="1943000" />
       <workItem from="1651143207635" duration="12236000" />
       <workItem from="1651569038045" duration="20931000" />
-      <workItem from="1651674442240" duration="8530000" />
+      <workItem from="1651674442240" duration="9474000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -383,7 +378,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651746096241</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Added Polymorphism concepts and examples to achieve it in java along method overloading and overriding.">
+      <created>1651748047582</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1651748047582</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -413,7 +415,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added arguments, compiling and running." />
     <MESSAGE value="Added Exceptions in java" />
     <MESSAGE value="ADDED complete singly linked list implementation in java" />
     <MESSAGE value="Added base doubly linked list classes. yet to be implemented" />
@@ -438,6 +439,7 @@
     <MESSAGE value="Added section Modifiers in java" />
     <MESSAGE value="Added section Hashset in java" />
     <MESSAGE value="Modifications in Hashset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Modifications in Hashset" />
+    <MESSAGE value="Added Polymorphism concepts and examples to achieve it in java along method overloading and overriding." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Polymorphism concepts and examples to achieve it in java along method overloading and overriding." />
   </component>
 </project>
