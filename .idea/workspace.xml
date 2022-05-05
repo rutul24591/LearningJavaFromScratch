@@ -4,8 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added section Hashset in java">
-      <change beforePath="$PROJECT_DIR$/src/HashSet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashSet/Main.java" afterDir="false" />
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Modifications in Hashset">
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/CompileTimePolymorphism.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/MethodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/OtherExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Polymorphism/RuntimePolymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/HashSet/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/HashSet/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +62,13 @@
       <recent name="OOPS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HashSet.Main">
-    <configuration name="ArrayList.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList.Main" />
+  <component name="RunManager" selected="Application.RuntimePolymorphismMain">
+    <configuration name="Car2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.Car2" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ArrayList.*" />
+          <option name="PATTERN" value="Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashMap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashMap.Main" />
+    <configuration name="RuntimePolymorphismMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.RuntimePolymorphismMain" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashMap.*" />
+          <option name="PATTERN" value="Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSet.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HashSet.Main" />
+    <configuration name="ShapeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.ShapeMain" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HashSet.*" />
+          <option name="PATTERN" value="Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Modifiers.Main" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.main" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Modifiers.*" />
+          <option name="PATTERN" value="Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Packages.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Packages.Main" />
+    <configuration name="otherExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.otherExample" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Packages.*" />
+          <option name="PATTERN" value="Polymorphism.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HashSet.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.HashMap.Main" />
-        <item itemvalue="Application.ArrayList.Main" />
-        <item itemvalue="Application.Packages.Main" />
+        <item itemvalue="Application.RuntimePolymorphismMain" />
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.otherExample" />
+        <item itemvalue="Application.Car2" />
+        <item itemvalue="Application.ShapeMain" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +150,7 @@
       <workItem from="1651134854018" duration="1943000" />
       <workItem from="1651143207635" duration="12236000" />
       <workItem from="1651569038045" duration="20931000" />
-      <workItem from="1651674442240" duration="6628000" />
+      <workItem from="1651674442240" duration="8530000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -369,7 +376,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651745915292</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Modifications in Hashset">
+      <created>1651746096241</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1651746096241</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +413,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adding objects in java and private, public access modifiers" />
     <MESSAGE value="Added arguments, compiling and running." />
     <MESSAGE value="Added Exceptions in java" />
     <MESSAGE value="ADDED complete singly linked list implementation in java" />
@@ -424,6 +437,7 @@
     <MESSAGE value="Added section HashMap in java" />
     <MESSAGE value="Added section Modifiers in java" />
     <MESSAGE value="Added section Hashset in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added section Hashset in java" />
+    <MESSAGE value="Modifications in Hashset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modifications in Hashset" />
   </component>
 </project>
