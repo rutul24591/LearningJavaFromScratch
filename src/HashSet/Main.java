@@ -5,11 +5,13 @@ package HashSet;
 
     HashSet class extends the `AbstractSet` and Implements the `Set` interface.
 
+    HashSet class offers constant time performance for the basic operations (add, remove, contains and size),
     A HashSet in java does not allow duplicates.
 
     A Hashset can contain one and only one `null` value.
 
-    Hashset is non-synchronized which makes it thread unsafe.
+    Hashset is non-synchronized which makes it thread unsafe.(If multiple threads access a hash set concurrently,
+    and at least one of the threads modifies the set, it must be synchronized externally)
 
     Hashset stores data as objects.
 

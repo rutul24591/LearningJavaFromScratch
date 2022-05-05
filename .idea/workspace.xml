@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added section Modifiers in java">
-      <change afterPath="$PROJECT_DIR$/src/HashSet/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added section Hashset in java">
+      <change beforePath="$PROJECT_DIR$/src/HashSet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashSet/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,7 +143,7 @@
       <workItem from="1651134854018" duration="1943000" />
       <workItem from="1651143207635" duration="12236000" />
       <workItem from="1651569038045" duration="20931000" />
-      <workItem from="1651674442240" duration="6452000" />
+      <workItem from="1651674442240" duration="6628000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -363,7 +362,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651744868760</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Added section Hashset in java">
+      <created>1651745915292</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1651745915292</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,7 +399,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Modifying the functions class" />
     <MESSAGE value="Adding objects in java and private, public access modifiers" />
     <MESSAGE value="Added arguments, compiling and running." />
     <MESSAGE value="Added Exceptions in java" />
@@ -418,6 +423,7 @@
     <MESSAGE value="Added section ArrayList in java" />
     <MESSAGE value="Added section HashMap in java" />
     <MESSAGE value="Added section Modifiers in java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added section Modifiers in java" />
+    <MESSAGE value="Added section Hashset in java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added section Hashset in java" />
   </component>
 </project>
