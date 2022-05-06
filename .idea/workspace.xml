@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added Polymorphism concepts and examples to achieve it in java along method overloading and overriding.">
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Encapsulation/Person.java" afterDir="false" />
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added Interfaces in java section">
+      <change afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Encapsulation/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Encapsulation/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Interfaces/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +58,13 @@
       <recent name="OOPS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Car2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.Car2" />
+  <component name="RunManager" selected="Application.Interfaces.Main">
+    <configuration name="Interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.Main" />
       <module name="LearningJavaFromScratch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Polymorphism.*" />
+          <option name="PATTERN" value="Interfaces.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Interfaces.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.RuntimePolymorphismMain" />
         <item itemvalue="Application.main" />
         <item itemvalue="Application.otherExample" />
-        <item itemvalue="Application.Car2" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +146,7 @@
       <workItem from="1651134854018" duration="1943000" />
       <workItem from="1651143207635" duration="12236000" />
       <workItem from="1651569038045" duration="20931000" />
-      <workItem from="1651674442240" duration="9474000" />
+      <workItem from="1651674442240" duration="11017000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -385,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651748047582</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Added Encapsulation in java section">
+      <created>1651751222494</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1651751222494</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -415,8 +423,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added Exceptions in java" />
-    <MESSAGE value="ADDED complete singly linked list implementation in java" />
     <MESSAGE value="Added base doubly linked list classes. yet to be implemented" />
     <MESSAGE value="Added addNodeAtEnd to DoublyLinkedList" />
     <MESSAGE value="Added addNodeAtStart to DoublyLinkedList" />
@@ -440,6 +446,8 @@
     <MESSAGE value="Added section Hashset in java" />
     <MESSAGE value="Modifications in Hashset" />
     <MESSAGE value="Added Polymorphism concepts and examples to achieve it in java along method overloading and overriding." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Polymorphism concepts and examples to achieve it in java along method overloading and overriding." />
+    <MESSAGE value="Added Encapsulation in java section" />
+    <MESSAGE value="Added Interfaces in java section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Interfaces in java section" />
   </component>
 </project>
