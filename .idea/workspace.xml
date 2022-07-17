@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added Interfaces in java section">
-      <change afterPath="$PROJECT_DIR$/src/Threads/TestThread.java" afterDir="false" />
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added Simple queues insertion, deletion, display, isEmpty and isFull function implemented with proper explaination.">
+      <change afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Threads/RunnableDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Threads/TestThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/HashMap/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/HashMap/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Queue/IntegerQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Queue/IntegerQueue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Queue/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue/IntegerQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/IntegerQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queue/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +63,20 @@
       <recent name="OOPS" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestThread">
+  <component name="RunManager" selected="Application.IntegerQueue">
+    <configuration name="IntegerQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Queue.IntegerQueue" />
+      <module name="LearningJavaFromScratch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Interfaces.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Interfaces.Main" />
       <module name="LearningJavaFromScratch" />
@@ -96,19 +116,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RuntimePolymorphismMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Polymorphism.RuntimePolymorphismMain" />
-      <module name="LearningJavaFromScratch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Polymorphism.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Threads.TestThread" />
       <module name="LearningJavaFromScratch" />
@@ -124,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IntegerQueue" />
         <item itemvalue="Application.TestThread" />
         <item itemvalue="Application.Keywords.Main" />
         <item itemvalue="Application.Interfaces.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.RuntimePolymorphismMain" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +151,34 @@
       <workItem from="1651134854018" duration="1943000" />
       <workItem from="1651143207635" duration="12236000" />
       <workItem from="1651569038045" duration="20931000" />
-      <workItem from="1651674442240" duration="13281000" />
+      <workItem from="1651674442240" duration="13370000" />
+      <workItem from="1652088523242" duration="1256000" />
+      <workItem from="1652265831319" duration="276000" />
+      <workItem from="1652850676663" duration="281000" />
+      <workItem from="1652851390559" duration="802000" />
+      <workItem from="1655802979204" duration="1796000" />
+      <workItem from="1655886860943" duration="1141000" />
+      <workItem from="1655922752955" duration="1743000" />
+      <workItem from="1655973865082" duration="2350000" />
+      <workItem from="1656057478146" duration="2265000" />
+      <workItem from="1656144887917" duration="1494000" />
+      <workItem from="1656231277870" duration="2696000" />
+      <workItem from="1656297862006" duration="357000" />
+      <workItem from="1656324023772" duration="1185000" />
+      <workItem from="1656404757786" duration="1735000" />
+      <workItem from="1656488106620" duration="1617000" />
+      <workItem from="1656517488497" duration="5303000" />
+      <workItem from="1656659359798" duration="267000" />
+      <workItem from="1656750652723" duration="1058000" />
+      <workItem from="1656934079399" duration="1524000" />
+      <workItem from="1657184898748" duration="555000" />
+      <workItem from="1657283596524" duration="362000" />
+      <workItem from="1657535620176" duration="665000" />
+      <workItem from="1657601861033" duration="1074000" />
+      <workItem from="1657679533274" duration="2320000" />
+      <workItem from="1657862478975" duration="4913000" />
+      <workItem from="1657967795226" duration="438000" />
+      <workItem from="1658049960120" duration="2756000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -405,7 +439,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651828318114</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Added Threading in java. Completing the basics of the necessary details required to know for Java.">
+      <created>1651829618869</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1651829618869</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,8 +476,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added base doubly linked list classes. yet to be implemented" />
-    <MESSAGE value="Added addNodeAtEnd to DoublyLinkedList" />
     <MESSAGE value="Added addNodeAtStart to DoublyLinkedList" />
     <MESSAGE value="Added addNodeAtPosition to DoublyLinkedList" />
     <MESSAGE value="Completed doubly linked list" />
@@ -460,6 +499,8 @@
     <MESSAGE value="Added Polymorphism concepts and examples to achieve it in java along method overloading and overriding." />
     <MESSAGE value="Added Encapsulation in java section" />
     <MESSAGE value="Added Interfaces in java section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Interfaces in java section" />
+    <MESSAGE value="Added Threading in java. Completing the basics of the necessary details required to know for Java." />
+    <MESSAGE value="Added Simple queues insertion, deletion, display, isEmpty and isFull function implemented with proper explaination." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Simple queues insertion, deletion, display, isEmpty and isFull function implemented with proper explaination." />
   </component>
 </project>

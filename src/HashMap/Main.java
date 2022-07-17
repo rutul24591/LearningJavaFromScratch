@@ -12,9 +12,10 @@ package HashMap;
                 put()               -       To add an element in Hashmap.
                 remove(index)       -       To remove an element in Hashmap using index.
                 get(index)          -       To access an element in the Hashmap using index.
-                set(index, value)   -       To set an element at a particular place in Hashmap.
+                set(index, value)   -       To set an element at a particular place in Hashmap. // Update with replace instead of set
                 size()              -       To find out how many elements a Hashmap has.
                 clear()             -       To remove all the elements in the Hashmap
+                containsKey(index)  -       To check if map contains key
 */
 
 // Import the HashMap class
@@ -23,7 +24,7 @@ import java.util.HashMap;
 public class Main {
     public static void main(String[] args) {
         // Create a HashMap object called capitalCities
-        HashMap<String, String> capitalCities = new HashMap<String, String>();
+        HashMap<String, String> capitalCities = new HashMap<>();
 
         // Add keys and values (Country, City)
         capitalCities.put("England", "London");
