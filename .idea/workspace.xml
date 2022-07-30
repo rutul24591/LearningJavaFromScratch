@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added Simple queues insertion, deletion, display, isEmpty and isFull function implemented with proper explaination.">
-      <change afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Threads/RunnableDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Threads/TestThread.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/HashMap/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/HashMap/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Queue/IntegerQueue.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Queue/IntegerQueue.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LearningJavaFromScratch/Queue/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HashMap/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMap/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Queue/IntegerQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/IntegerQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Queue/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,7 +171,14 @@
       <workItem from="1657679533274" duration="2320000" />
       <workItem from="1657862478975" duration="4913000" />
       <workItem from="1657967795226" duration="438000" />
-      <workItem from="1658049960120" duration="2756000" />
+      <workItem from="1658049960120" duration="3939000" />
+      <workItem from="1658141417248" duration="609000" />
+      <workItem from="1658210393348" duration="410000" />
+      <workItem from="1658393789769" duration="558000" />
+      <workItem from="1658822882195" duration="300000" />
+      <workItem from="1658900800023" duration="1608000" />
+      <workItem from="1658992560534" duration="1769000" />
+      <workItem from="1659079151738" duration="355000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -446,7 +446,21 @@
       <option name="project" value="LOCAL" />
       <updated>1651829618869</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Added Simple queues insertion, deletion, display, isEmpty and isFull function implemented with proper explaination.">
+      <created>1658071850669</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1658071850669</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Added Simple queues insertion, deletion, display, isEmpty and isFull function implemented with proper explaination.">
+      <created>1658071871550</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1658071871550</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

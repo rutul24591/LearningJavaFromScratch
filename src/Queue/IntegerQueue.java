@@ -50,6 +50,12 @@ package Queue;
             3. Handling of interrupts in real-time systems.
             4. Call Center phone systems use Queues to hold people calling them in order.
 
+        There are four different types of queues:
+            1. Simple Queue
+            2. Circular Queue
+            3. Priority Queue
+            4. Double Ended Queue
+
 */
 public class IntegerQueue {
     int size = 5;
