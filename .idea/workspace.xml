@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Added Simple queues insertion, deletion, display, isEmpty and isFull function implemented with proper explaination.">
+    <list default="true" id="1348fd10-78af-41ca-a00a-c7d52b8d96d7" name="Changes" comment="Implemented integer queue">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Queue/IntegerQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queue/IntegerQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashSet/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashSet/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,6 +179,23 @@
       <workItem from="1658900800023" duration="1608000" />
       <workItem from="1658992560534" duration="1769000" />
       <workItem from="1659079151738" duration="355000" />
+      <workItem from="1659168998656" duration="83000" />
+      <workItem from="1659266173503" duration="248000" />
+      <workItem from="1660209510637" duration="347000" />
+      <workItem from="1660297867251" duration="688000" />
+      <workItem from="1660302508524" duration="487000" />
+      <workItem from="1660381347404" duration="597000" />
+      <workItem from="1660474418756" duration="453000" />
+      <workItem from="1660561126815" duration="232000" />
+      <workItem from="1660561372173" duration="3000" />
+      <workItem from="1660652773935" duration="598000" />
+      <workItem from="1660734340534" duration="404000" />
+      <workItem from="1660825976998" duration="598000" />
+      <workItem from="1660902479423" duration="70000" />
+      <workItem from="1660983515340" duration="239000" />
+      <workItem from="1660993972230" duration="5000" />
+      <workItem from="1661290805460" duration="684000" />
+      <workItem from="1661384215969" duration="549000" />
     </task>
     <task id="LOCAL-00001" summary="Committing arrays, functions, loops , conditionals and try-catch">
       <created>1651052290425</created>
@@ -460,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658071871550</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Implemented integer queue">
+      <created>1659169042075</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1659169042075</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +514,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added addNodeAtStart to DoublyLinkedList" />
     <MESSAGE value="Added addNodeAtPosition to DoublyLinkedList" />
     <MESSAGE value="Completed doubly linked list" />
     <MESSAGE value="Added find length of list functionality to both singly and doubly linked list" />
@@ -515,6 +538,7 @@
     <MESSAGE value="Added Interfaces in java section" />
     <MESSAGE value="Added Threading in java. Completing the basics of the necessary details required to know for Java." />
     <MESSAGE value="Added Simple queues insertion, deletion, display, isEmpty and isFull function implemented with proper explaination." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Simple queues insertion, deletion, display, isEmpty and isFull function implemented with proper explaination." />
+    <MESSAGE value="Implemented integer queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented integer queue" />
   </component>
 </project>

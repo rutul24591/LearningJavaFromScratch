@@ -23,7 +23,7 @@ package HashSet;
 
 
     METHODS:
-
+        add(value           -       Add value to hashset.
         contains(value)     -       Check if hashset contains item
         clear()             -       To clear all items from hashset
         size()              -       To check the size of hashset
